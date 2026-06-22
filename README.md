@@ -9,7 +9,7 @@ I'm a Computer Science and Data Science student at Western University, specializ
 ### Highlights
 * 💻 **AI & Software Development:** Currently training multi-task CNNs to 94% accuracy and building end-to-end full stack tools with Next.js and Supabase as an intern at Purely Biome.
 * 📊 **Full-Stack Analytics:** Developed Mustang Wrapped, integrating the Spotify API with React and Supabase to securely store and normalize real-time user listening history using complex SQL queries.
-* 🛠️ **Campus Involvement:** Directing projects for the Western Founders Network, collaborating to build and deploy full-stack Node/React applications.
+* 🛠️ **Campus Involvement:** VP of Projects for the Western Founders Network.
 
 ---
 
