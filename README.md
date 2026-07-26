@@ -21,4 +21,4 @@ I'm a Computer Science and Data Science student at Western University, specializ
 ---
 
 ### 📈 GitHub Stats
-![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omjnr06&show_icons=true&theme=dark&rank_icon=github)
+![Oladele's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Omjnr06&show_icons=true&theme=dark)
