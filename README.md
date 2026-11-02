@@ -7,9 +7,10 @@ I'm a Computer Science and Data Science student at Western University, specializ
 ---
 
 ### Highlights
-* 💻 **AI & Software Development:** Trained multi-task CNNs to 94% accuracy and building end-to-end full stack tools with Next.js and Supabase as an intern at Purely Biome.
+* 🎭 **Project Manager @ Grand Theatre:** Leading 6 developers building a carbon tracking platform with Next.js, FastAPI, and PostgreSQL to replace a 24-column Excel workflow across 9 departments, automating emissions calculations and ingesting utility and HVAC data.
+* 💻 **AI & Software Development:** Fine-tuned an EfficientNet CNN to 95.5% validation accuracy and built end-to-end full stack tools with Next.js and Supabase as an intern at PurelyBiome.
 * 📊 **Full-Stack Analytics:** Developed Mustang Wrapped, integrating the Spotify API with React and Supabase to securely store and normalize real-time user listening history using complex SQL queries.
-* 🛠️ **Campus Involvement:** VP of Projects for the Western Founders Network.
+* 🚀 **VP of Projects @ Western Founders Network:** Running a technical curriculum that takes student builders from setup to a working full stack prototype by Demo Day.
 
 ---
 
@@ -19,3 +20,7 @@ I'm a Computer Science and Data Science student at Western University, specializ
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
+
+### ⚡ Beyond the Tech
+* 🏆 Carmeta Thelma Hodges Scholarship at Western University recipient
+* 🎵 Musician, check out the interactive music page on [my site](https://magbadelojr.com)
