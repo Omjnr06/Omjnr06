@@ -7,7 +7,7 @@ I'm a Computer Science and Data Science student at Western University, specializ
 ---
 
 ### Highlights
-* 🎭 **Project Manager @ Grand Theatre:** Leading 6 developers building a carbon tracking platform with Next.js, FastAPI, and PostgreSQL to replace a 24-column Excel workflow across 9 departments, automating emissions calculations and ingesting utility and HVAC data.
+* 🎭 **Project Manager @ Grand Theatre with Tech for Social Impact:** Leading 6 developers building a carbon tracking platform with Next.js, FastAPI, and PostgreSQL to replace a 24-column Excel workflow across 9 departments, automating emissions calculations and ingesting utility and HVAC data.
 * 💻 **AI & Software Development:** Fine-tuned an EfficientNet CNN to 95.5% validation accuracy and built end-to-end full stack tools with Next.js and Supabase as an intern at PurelyBiome.
 * 📊 **Full-Stack Analytics:** Developed Mustang Wrapped, integrating the Spotify API with React and Supabase to securely store and normalize real-time user listening history using complex SQL queries.
 * 🚀 **VP of Projects @ Western Founders Network:** Running a technical curriculum that takes student builders from setup to a working full stack prototype by Demo Day.
